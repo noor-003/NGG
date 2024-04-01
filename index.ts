@@ -6,7 +6,7 @@ import inquirer from "inquirer"
 //const randomNumber = 13;
 
 const randomNumber = Math.floor(Math.random() * 10 +1 );
-//console.log(randomNumber);
+console.log("Welcome To My Number Guessing Game");
 
 //use input for guessing num
 //compare user input with comp. generated num & show result
